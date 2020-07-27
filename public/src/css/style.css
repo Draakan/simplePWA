@@ -1,0 +1,21 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+svg {
+  height: 2rem;
+  width: 3rem;
+  display: inline-block;
+}
+
+svg:hover {
+  cursor: pointer;
+}
+
+.footer-copyright {
+  justify-content: center !important;
+  background-color: #333 !important;
+}
